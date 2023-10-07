@@ -47,7 +47,7 @@ We follow these guidelines for contributing:
    git checkout -b feature-name
    ```
 
-5. Make your changes and ensure your code follows our coding standards and
+5. Make your changes and ensure your code follow our coding standards and
 	 practices.
 
 6. Test your changes locally to ensure they work as expected.
